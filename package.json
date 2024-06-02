@@ -1,0 +1,28 @@
+{
+  "name": "blockchain-testing",
+  "version": "1.0.0",
+  "description": "A simple Blockchain project developing ethereum smart contracts and tests for a survey website.",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigomolter/blockchain-testing.git"
+  },
+  "author": "Rodrigo Molter <rodrigo.molter@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodrigomolter/blockchain-testing/issues"
+  },
+  "homepage": "https://github.com/rodrigomolter/blockchain-testing#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "truffle": "^5.11.5"
+  }
+}
