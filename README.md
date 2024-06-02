@@ -62,7 +62,7 @@ truffle test
 
 If you want to support this project, leave a ⭐.
 
-This project is based on the [Pet Shop tutorial](https://archive.trufflesuite.com/boxes/pet-shop/) in the Truffle Box
+This project is based on the [Pet Shop tutorial](https://archive.trufflesuite.com/guides/pet-shop/) in the Truffle Box
 
 ___
 
