@@ -7,9 +7,9 @@ To clone and run this project, you will need:
 
 - [Node.js](https://nodejs.org/en/) (I've used version `v18.15.0` while writing this doc)
 - npm (I've used version `9.5.0` while writing this doc)
-- [Ganache*](https://archive.trufflesuite.com/ganache/) ( (I've used version `2.7.1` while writing this doc)
+- [Ganache*](https://archive.trufflesuite.com/ganache/) (I've used version `2.7.1` while writing this doc)
 
-***Note:** Unfortunately, [Truffle Suite is being sunset](https://consensys.io/blog/consensys-announces-the-sunset-of-truffle-and-ganache-and-new-hardhat), but you can use this material more for learning.
+***Note:** Unfortunately, [Truffle Suite is being sunset](https://consensys.io/blog/consensys-announces-the-sunset-of-truffle-and-ganache-and-new-hardhat), but you can use this as a learning material.
 <br>
 
 ## Installation 🏗️
